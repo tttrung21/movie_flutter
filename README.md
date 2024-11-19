@@ -1,16 +1,5 @@
 # simple_movie_app
 
-A new Flutter project.
+A simple movie app
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Recording - iPhone 15 Pro - 2024-11-19 at 16 52 01](https://github.com/user-attachments/assets/da4165a9-395b-4f24-ba07-c06c2a35cc33)
